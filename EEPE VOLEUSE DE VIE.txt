@@ -1,4 +1,4 @@
 ÉPÉE VOLEUSE DE VIE
 [ Sword of Life Stealing ]
 Arme (toute épée), rare (nécessite un lien)
-Lorsque vous attaquez une créature avec cette arme magique et obtenez un 20 au jet d'attaque, la cible subit 3d3 dégâts nécrotiques supplémentaires, à condition qu'elle ne soit pas une créature artificielle ou un mort-vivant. Vous gagnez un nombre de points de vie temporaires égal aux dégâts supplémentaires infligés. 
+Lorsque vous attaquez une créature avec cette arme magique et obtenez un 20 au jet d'attaque, la cible subit 3d2 dégâts nécrotiques supplémentaires, à condition qu'elle ne soit pas une créature artificielle ou un mort-vivant. Vous gagnez un nombre de points de vie temporaires égal aux dégâts supplémentaires infligés. 
