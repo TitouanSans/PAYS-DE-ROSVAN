@@ -1,1 +1,1 @@
-Simulacre de vie	1	nécromantie	La lanceur gagne 1d4+4 pv tenporaires (+5 pv/niv).
+Simulacre de vie	1	nécromancie	Le lanceur gagne 1d4+4 pv temporaires (+5 pv/niv).

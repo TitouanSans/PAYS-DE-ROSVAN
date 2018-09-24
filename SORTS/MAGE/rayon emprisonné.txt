@@ -1,1 +1,0 @@
-Rayon emprisonné	1	nécromantie	Si l'ataque touche, inflige 2d8 dégâts de poison (dégâts/niv) et la cible peu être empoisonnée (JdS de Con.).
